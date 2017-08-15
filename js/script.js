@@ -755,7 +755,7 @@
     n = t(function(t) {
       var n = window.$,
         i = e && n.tram;
-  
+
       t.exports = function() {
         var t = {};
         t.VERSION = "1.6.0-script";
@@ -1926,7 +1926,7 @@
   })
 }();
 /**
- * ----------------------------------------------------------------------
+ * -----------------------------------------------------------------------
  * script: Interactions: Init
  */
 script.require('ix').init([{
