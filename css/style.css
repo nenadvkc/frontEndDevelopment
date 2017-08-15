@@ -1533,7 +1533,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-richtext figure div {
-  /* fix incorrectly sized selection border in the data manager */
+
   font-size: 0px;
   color: transparent;
 }

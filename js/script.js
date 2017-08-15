@@ -755,27 +755,7 @@
     n = t(function(t) {
       var n = window.$,
         i = e && n.tram;
-      /*!
-       * script._ (aka) Underscore.js 1.6.0 (custom build)
-       * _.each
-       * _.map
-       * _.find
-       * _.filter
-       * _.any
-       * _.contains
-       * _.delay
-       * _.defer
-       * _.throttle (script)
-       * _.debounce
-       * _.keys
-       * _.has
-       * _.now
-       *
-       * http://underscorejs.org
-       * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
-       * Underscore may be freely distributed under the MIT license.
-       * @license MIT
-       */
+  
       t.exports = function() {
         var t = {};
         t.VERSION = "1.6.0-script";
